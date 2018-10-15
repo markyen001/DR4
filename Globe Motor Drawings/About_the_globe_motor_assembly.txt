@@ -1,0 +1,10 @@
+To Students:
+Since this motor is modeled as an assembly, when using it in your CAD model, 
+you must use the assembly, facehub, and the motor itself.
+
+The reason that the motor is modeled in this fashion is so that the face hub can rotate
+in your model, this will allow you to get a better idea of how the part/assembly you
+attach to the motor will move when it is on the motor. 
+
+To take advantage of this, be sure to mate to the face hub when creating your CAD 
+model
